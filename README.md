@@ -10,9 +10,13 @@ El resultado que se desea obtener en este trabajo es predecir con un cierto grad
 
 # Documentación
 Los productos que se obtendrán al final del desarrollo del proyecto son los siguientes:
--	FGR_fenotipos.ipynb: Fichero con el código del desarrollo del proyecto en lenguaje Python.
+-   FGR_fenotipos.part1 y FGR_fenotipos.part2: Al descomprimir estos ficheros se obtendrá el fichero "FGR_fenotipos.ipynb"que contiene  el código del desarrollo del proyecto en lenguaje Python.
 
--	Memoria.pdf: Documento que describe el desarrollo del proyecto.
+-	Memoria.docx: Documento de extensión .docx que describe el desarrollo del proyecto.
+
+-	Anexo.docx: Documento de extensión .docx que complementa el apartado 2 “Estado del arte o análisis de mercado” de la memoria.
+
+-	Memoria.pdf: Documento de extensión .pdf que describe el desarrollo del proyecto.
 
 -	Anexo.pdf: Documento de extensión .pdf que complementa el apartado 2 “Estado del arte o análisis de mercado” de la memoria.
 
